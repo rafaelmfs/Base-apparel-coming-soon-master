@@ -18,7 +18,7 @@ Os usuários devem ser capazes de:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![image](https://user-images.githubusercontent.com/80429145/120243533-3a7d8e80-c23e-11eb-8be9-7996fdd3ba28.png)
 
 ### Links
 
