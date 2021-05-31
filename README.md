@@ -22,7 +22,7 @@ Os usuários devem ser capazes de:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/baseapparelcomingsoonmaster-GNY1t8hnZ
 - Live Site URL: https://rafaelmfs.github.io/Base-apparel-coming-soon-master/
 
 ## Meu processo
